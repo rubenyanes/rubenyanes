@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 my name is Rubén
 
+I will be uploading key content for the well understanding of Data Science, Cloud Computing, Algorithmic Trading & relative topics from courses and personal projects
+
+## Skills
+![Python](https://img.shields.io/badge/Python-FFC727?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 <!--
 **rubenyanes/rubenyanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
