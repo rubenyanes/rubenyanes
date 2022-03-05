@@ -7,7 +7,7 @@ I will be uploading key content for the well understanding of Data Science, Clou
 ![Html5](https://img.shields.io/badge/HTML5-E05D25?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![Css3](https://img.shields.io/badge/CSS3-0096D1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![Sql](https://img.shields.io/badge/SQL-FC00FF?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9B00?style=for-the-badge&logo=aws&logoColor=white&labelColor=101010)
 
 ## Find me at:
