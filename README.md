@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Rubén, Data Analytics, Business Intelligence & IT Consultant
+### Hi there 👋 my name is Rubén, I work in Data Analytics, Business Intelligence & as IT Consultant
 
 I will be uploading key content for the well understanding of Data Science, Cloud Computing, Algorithmic Trading & relative topics from courses and personal projects
 
@@ -6,6 +6,9 @@ I will be uploading key content for the well understanding of Data Science, Clou
 ![Python](https://img.shields.io/badge/Python-FFC727?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Html5](https://img.shields.io/badge/HTML5-E05D25?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![Css3](https://img.shields.io/badge/CSS3-0096D1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Sql](https://img.shields.io/badge/SQL-FC00FF?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)
+![AWS](https://img.shields.io/badge/AWS-FF9B00?style=for-the-badge&logo=aws&logoColor=white&labelColor=101010)
 
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Yanes-0075B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rub%C3%A9n-yanes-castilla-2880a8133/)
