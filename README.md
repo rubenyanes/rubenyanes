@@ -1,17 +1,32 @@
-### Hi there 👋 my name is Rubén, I work in Data Analytics, Business Intelligence & as IT Consultant
+### Hi there 👋 my name is Rubén, I work in Data Analytics, Business Intelligence & IT Consulting, but always increasing my knowledge!
 
 I will be uploading key content for the well understanding of Data Science, Cloud Computing, Algorithmic Trading & relative topics from courses and personal projects
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-FFC727?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![Html5](https://img.shields.io/badge/HTML5-E05D25?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![Css3](https://img.shields.io/badge/CSS3-0096D1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![Sql](https://img.shields.io/badge/SQL-FC00FF?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+### Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+### Cloud & Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9B00?style=for-the-badge&logo=aws&logoColor=white&labelColor=101010)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Web developper
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+## Others
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Yanes-0075B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rub%C3%A9n-yanes-castilla-2880a8133/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-yanes-castilla-2880a8133/)
 
 
 <!--
