@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Rubén, I work in Data Analytics, Business Intelligence & IT Consulting, but always increasing my knowledge!
-
+![WallpaperGithub](https://user-images.githubusercontent.com/100965655/156927555-c7f04137-0a59-4783-8265-9a769f326e30.png)
 I will be uploading key content for the well understanding of Data Science, Cloud Computing, Algorithmic Trading & relative topics from courses and personal projects
 
 ## Skills
