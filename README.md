@@ -1,32 +1,33 @@
 ### Hi there 👋 my name is Rubén!
 
-I will be uploading key content on Data Science, Big Data, Cloud Computing, Algorithmic Trading & related topics from courses and personal projects
+### 🌟 Data Scientist | AI & Data Engineer | Generative AI | Strategic Consultant  
 
-## Skills
-### Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-### Cloud 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-### Data Analysis
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-%23FF9900.svg?style=for-the-badge&logo=powerbi&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-### Web development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-## Others
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+🚀 I am dedicated to transforming data into actionable insights and innovative solutions. With a proven track record across diverse industries, including:  
+- **Financial Services**  
+- **Retail**  
+- **Energy**  
+- **Construction**  
+- **FMCG** (Fast-Moving Consumer Goods)  
+- **Supply Chain Management**  
+
+🎓 **Academic Background**  
+- **Master’s in Civil Engineering - UPC Catalonia (Ingeniero de Caminos, Canales y Puertos)**  
+- **Master’s in Management - HEC Paris**  
+- **Extensive coursework and certifications in programming and AI technologies**  
+
+🔧 **Core Skills and Technologies**  
+- Development of **Machine Learning** and **Deep Learning** models  
+- Implementation and testing of **Generative AI** solutions (RAG, AI Agents, Synthetic Data) 
+- Data-driven strategic decision-making and process optimization  
+- Expertise in **Big Data**, **Data Visualization**, and **Operational Efficiency**  
+- Proficiency in programming languages: Python (+ libraries), SQL, Javascript (React and NextJS)  
+
+🌐 **Professional Experience**  
+I have collaborated with cross-functional teams to deliver impactful projects in key industries, optimizing operations and maximizing value through data-driven solutions.  
+
+💡 **A Bit More About Me**  
+As a lifelong learner and technology enthusiast, I am passionate about leveraging artificial intelligence to drive organizational transformation. I am always eager to engage in high-impact projects and collaborate with like-minded professionals.  
+
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-yanes-castilla-2880a8133/)
 
